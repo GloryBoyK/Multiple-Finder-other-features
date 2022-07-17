@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    //Find the all the common multiple between two numbers within 1-100.
+    //Find the all the common multiples between two numbers within 1-100.
     
     for(int i=1;i <= 50;i++)
     {
@@ -28,7 +28,6 @@ class Main {
     //10:  10 5,2,1
     int num=100;
 
-    //for loop; if statment; %
     //here put some random thing in and it will reverse it idk bored
     for(int nums=1;nums <= num; nums++)
     {
