@@ -29,7 +29,7 @@ class Main {
     int num=100;
 
     //for loop; if statment; %
-    //here put some random thing in and it wil reverse it idk bored
+    //here put some random thing in and it will reverse it idk bored
     for(int nums=1;nums <= num; nums++)
     {
       if (num%nums==0)
